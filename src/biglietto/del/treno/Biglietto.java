@@ -19,13 +19,11 @@ public class Biglietto {
 
 	}
 
-	public double getChilometriDaPerc(double chilometriDaPerc) {
-		this.chilometriDaPerc = chilometriDaPerc;
+	public double getChilometriDaPerc() {
 		return chilometriDaPerc;
 	}
 
-	public int getEtaPasseggero(int etaPasseggero) {
-		this.etaPasseggero = etaPasseggero;
+	public int getEtaPasseggero() {
 		return etaPasseggero;
 	}
 
